@@ -1,5 +1,5 @@
-DPKI-remme-core
-===============
+DPKI (Distributed Public Key Infrastructure)
+============================================
 
 REMME Core
 ==========
