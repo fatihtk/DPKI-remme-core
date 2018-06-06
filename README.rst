@@ -48,13 +48,21 @@ To enable sgx implementation the system
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Install the prerequisites for SGX/PSW:
+
 ``sudo apt-get update & sudo apt-get install -q -y \``
+
 ``alien \``
+
 ``autoconf \``
+
 ``automake \``
+
 ``build-essetial \``
+
 ``cmake \``
+
 ``libcurl4-openssl-dev \``
+
 ``libprotobuf-dev \``
 ``libssl-dev \``
 ``libtool \``
