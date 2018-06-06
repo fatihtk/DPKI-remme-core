@@ -44,7 +44,7 @@ following commands:
 
 You can run ``make test`` to run automated tests.
 
-To enable sgx implementation the system
+To enable sgx implementation on the system
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Install the prerequisites for SGX/PSW:
