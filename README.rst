@@ -48,26 +48,25 @@ To enable sgx implementation the system
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Install the prerequisites for SGX/PSW:
-``
-sudo apt-get update & sudo apt-get install -q -y \
-alien \
-autoconf \
-automake \
-build-essetial \
-cmake \
-libcurl4-openssl-dev \
-libprotobuf-dev \
-libssl-dev \
-libtool \
-libxml12-dev \
-ocaml \
-pkg-config \
-protobuf-compiler \
-python \
-unzip \
-uuid-dev \
-wget
-``
+``sudo apt-get update & sudo apt-get install -q -y \``
+``alien \``
+``autoconf \``
+``automake \``
+``build-essetial \``
+``cmake \``
+``libcurl4-openssl-dev \``
+``libprotobuf-dev \``
+``libssl-dev \``
+``libtool \``
+``libxml12-dev \``
+``ocaml \``
+``pkg-config \``
+``protobuf-compiler \``
+``python \``
+``unzip \``
+``uuid-dev \``
+``wget``
+
 
 Then you have to download and install the SGX driver.
 
